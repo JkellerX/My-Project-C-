@@ -1,0 +1,14 @@
+C:\Users\Asia\Documents\AsiaPlayground\bin\Debug\net8.0\AsiaPlayground.exe
+C:\Users\Asia\Documents\AsiaPlayground\bin\Debug\net8.0\AsiaPlayground.deps.json
+C:\Users\Asia\Documents\AsiaPlayground\bin\Debug\net8.0\AsiaPlayground.runtimeconfig.json
+C:\Users\Asia\Documents\AsiaPlayground\bin\Debug\net8.0\AsiaPlayground.dll
+C:\Users\Asia\Documents\AsiaPlayground\bin\Debug\net8.0\AsiaPlayground.pdb
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.AssemblyInfoInputs.cache
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.AssemblyInfo.cs
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.csproj.CoreCompileInputs.cache
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.dll
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\refint\AsiaPlayground.dll
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.pdb
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\AsiaPlayground.genruntimeconfig.cache
+C:\Users\Asia\Documents\AsiaPlayground\obj\Debug\net8.0\ref\AsiaPlayground.dll
